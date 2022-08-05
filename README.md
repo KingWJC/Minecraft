@@ -21,11 +21,3 @@
 
 1. 构建作品
 2. 录制视频
-
-资料：http://mc.163.com/20190918/31451_833404.html
-
-https://mhy278.github.io/MinecraftServerHostGuideHtml/Model.html
-
-https://github.com/mouse0w0/MinecraftDeveloperGuide
-
-https://docs.microsoft.com/zh-cn/minecraft/creator/
